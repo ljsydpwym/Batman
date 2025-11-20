@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "downloadUrl": "https://raw.githubusercontent.com/ljsydpwym/Batman/main/updates/app-release-2.zip",
+  "releaseNotes": "Test update with new update system!\n\n• Added automatic update detection\n• Improved performance\n• Bug fixes",
+  "mandatory": false,
+  "minSupportedVersion": 1
+}
